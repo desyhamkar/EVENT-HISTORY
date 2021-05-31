@@ -1,2 +1,2 @@
-# EVENT-HISTORY
+# SURVIVAL-ANALYSIS
 Explore data with methodologies 
